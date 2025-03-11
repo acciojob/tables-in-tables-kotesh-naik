@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+#table-1,#col-1,#row-1{
+	border:1px solid black;
+}
+#table-2,#col-2,#row-2{
+	border:1px solid black;
+}
+#table-3,#col-3,#row-3{
+	border:1px solid black;
+}
+#table-4,#col-4,#row-4{
+	border:1px solid black;
+}
+#table-5,#col-5,#row-5{
+	border:1px solid black;
+}
+#col-2,#col-3,#col-4,#col-5,#col-6{
+	width:100;
+	padding:20px 60px;
+}
+#col-5{
+	background-color:black;
+	color:white;
+	padding-top:10px;
+padding-bottom:10px;
+}
+#col-6{
+	padding-top:10px;
+	padding-bottom:10px;
+	border:1px solid black;
+}
+
