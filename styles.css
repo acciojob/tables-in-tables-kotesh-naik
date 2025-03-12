@@ -15,33 +15,17 @@
 #table-5,#col-5,#row-5{
 	border:1px solid black;
 }
-#col-2,#col-3,#col-4,#col-5,#col-6{
-	width:100;
-	padding:20px 60px;
+#row-1,#table{
+padding
 }
-#col-5{
+.html{
 	background-color:black;
 	color:white;
-	padding-top:10px;
-padding-bottom:10px;
 }
-#col-6{
-	padding-top:5px;
-	padding-bottom:5px;
-	border:1px solid black;
+#col-2,#col-4{
+width:100%	;
 }
-#col-3{
-	padding-left:100px;
-	padding-right:100px;
-}
-#table-3{
-	padding:50px 0px 50px 0px;
-	width:100px
-}
-#table-4{
-	padding:50px 0px; 
-}
-#table-5{
-	padding:50px 0px;
+#col-3,#col-5{
+	padding-right:100px
 }
 
